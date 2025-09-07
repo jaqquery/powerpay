@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278420526152",
+    "project_id": "official-powerpay-messaging",
+    "storage_bucket": "official-powerpay-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278420526152:android:8f8194a03aec7ab6f8747d",
+        "android_client_info": {
+          "package_name": "com.powerpay.powerpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTUQ4INqbGzGaXHa1Vk3kBK6gbELECyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
